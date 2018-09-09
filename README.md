@@ -10,7 +10,7 @@ This package is a basic integration of a french datepicker for Laravel Nova (usi
 You may require this package using composer:
 
 ```
-composer require to-determine
+composer require joffreyc22/nova-french-datepicker
 ```
 
 You can now use the FrenchDate class by importing it at the top of your file :
