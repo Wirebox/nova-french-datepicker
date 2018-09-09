@@ -20,9 +20,10 @@ use JoffreyC22\FrenchDatepicker\FrenchDate;
 
 FrenchDate::make('start_date');
 ```
+
 ### Screens
 
-<img src="https://screenshots.firefox.com/Qalj0eTXR0YfGo9H/jacques.local">
+<img src="https://raw.githubusercontent.com/JoffreyC22/nova-french-datepicker/master/screens/screen1.png">
 
 The date field will now also appear in french in the index, detail and form parts of the field.
 
