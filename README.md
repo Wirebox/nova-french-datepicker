@@ -18,7 +18,7 @@ You can now use the FrenchDate class by importing it at the top of your file :
 ```php
 use JoffreyC22\FrenchDatepicker\FrenchDate;
 
-FrenchDate::make('start_date');
+FrenchDate::make('start_date')
 ```
 
 ### Screens
