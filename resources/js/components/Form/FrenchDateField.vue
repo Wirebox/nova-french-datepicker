@@ -6,7 +6,7 @@
                 :field="field"
                 :name="field.name"
                 :value="value"
-                dateFormat="d-m-Y"
+                dateFormat="d/m/Y"
                 :placeholder="placeholder"
                 :enable-time="false"
                 :enable-seconds="false"
