@@ -31,7 +31,7 @@ export default {
 
     computed: {
         placeholder() {
-            return moment().format('DD-MM-YYYY')
+            return moment().format('DD/MM/YYYY')
         },
     },
 }
